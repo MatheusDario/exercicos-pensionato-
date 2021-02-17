@@ -38,10 +38,13 @@ public class Program {
 		System.out.println(i + ": " + vect[i]);
 		
 		
+		System.out.println("Bom dia");
 		sc.close();
 
-		}
-	
 			}
+	
 		}
+	}
+	
+	
 }
